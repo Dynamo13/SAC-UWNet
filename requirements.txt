@@ -4,3 +4,4 @@ numpy==1.25.2
 os
 matplotlib
 opencv-python
+keras-self-attention
